@@ -1,22 +1,26 @@
 [
-  "Железная палка:",
-  {
-    "link": "fp:lang/part/crafting_util.json"
-  },
-  "Бак (пустой):",
-  {
-    "link": "fp:lang/part/crafting_util2.json"
-  },
-  "Катушки:",
-  {
-    "link": "fp:lang/part/crafting_util3.json"
-  },
-  "Рыбный блок (можно есть также, как торт):",
-  {
-    "link": "fp:lang/part/crafting_util4.json"
-  },
-  "Кирпичи из кристальных слитков:",
-  {
-    "link": "fp:lang/part/crafting_util5.json"
-  }
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "Iron Stick:",
+    {
+        "link": "futurepack:lang/part/crafting_util.json"
+    },
+    "(empty) Tank:",
+    {
+        "link": "futurepack:lang/part/crafting_util2.json"
+    },
+    "Coils:",
+    {
+        "link": "futurepack:lang/part/crafting_util3.json"
+    },
+    "Fish Block (eatable like a cake):",
+    {
+        "link": "futurepack:lang/part/crafting_util4.json"
+    },
+    "Crystallingot-Bricks:",
+    {
+        "link": "futurepack:lang/part/crafting_util5.json"
+    }
 ]

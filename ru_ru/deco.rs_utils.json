@@ -1,0 +1,20 @@
+[
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I have developed some useful Redstone components.",
+    "Lever:",
+    {
+        "link": "futurepack:lang/part/crafting_deco.rs_utils.json"
+    },
+    "Button:",
+    {
+        "link": "futurepack:lang/part/crafting_deco.rs_utils2.json"
+    },
+    "Redstone Timer (Clock):",
+    {
+        "link": "futurepack:lang/part/crafting_deco.rs_utils3.json"
+    },
+    "The interval of the timer can be set via GUI."
+]

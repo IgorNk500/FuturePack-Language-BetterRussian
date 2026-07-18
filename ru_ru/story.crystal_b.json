@@ -1,5 +1,9 @@
 [
-	"Я нашёл зелёный светящийся кристалл. После проведения некоторого анализа я бы классифицировал его как полупроводниковый кристалл.",
-	"Окрашивание света, по всей видимости, вызвано органическим веществом, попавшим в его кристаллическую структуру. Именно поэтому я называю этот образец Биотерием.",
-	"Эти кристаллы несколько отличаются от своих обычных собратьев, поскольку они образуются в результате бактериального метаболизма. В их состав часто входят биологические яды."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I have found a green glowing crystal. Through my analyses, I would categorize this as a semiconducting crystal.",
+    "The coloration of the light seems to be caused by organic substance trapped in the crystal structure. As such, I name this specimen Bioterium crystal.",
+    "These crystals are somewhat different from the usual ones as they are formed by bacterial metabolism. Included in their structure are often biolgical poisons."
 ]

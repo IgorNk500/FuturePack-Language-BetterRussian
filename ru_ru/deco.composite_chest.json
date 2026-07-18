@@ -1,7 +1,11 @@
 [
-  "Я создал сундук из композитного металла. Он предоставляет чуть больше места для хранения, чем обычный сундук.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_deco.composite_chest.json"
-  }
+    {
+        "type": "revision",
+        "changed_date": "2020-05-11"
+    },
+    "I created a chest from composite metal, basing my design on the chests I saw in the underground structures. It provides a bit more storage space then a standard, wooden chest.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_deco.composite_chest.json"
+    }
 ]

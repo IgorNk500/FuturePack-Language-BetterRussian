@@ -1,0 +1,21 @@
+[
+    {
+        "type": "revision",
+        "changed_date": "2021-08-16"
+    },
+    "The Life Support System is there to let you breath at places with no athmoshohere or oxygenless athmospheres. The Process needs alot of power, but is alot faster compared to normal plants. Dont forget to install a transport chip to the Block, so water is automaticly sucked in.",
+    "The block needs a installed transport chip in order to be accepted as a ship upgrade. The industrial chip improves the catalyst usage and further increased oxygen output without the need of more power, so overall system efficency increases.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_space.lifesupport.json"
+    },
+    "Building The Spaceship Upgrade:",
+    {
+        "link": "futurepack:lang/part/building_space.lifesupport.json"
+    },
+    "Supported Chips:",
+    "  Transport",
+    "  Industrial",
+    "  Damage Control",
+    "  Redstone"
+]

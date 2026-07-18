@@ -1,5 +1,9 @@
 [
-	"Перемещать жидкости при помощи вёдер очень дорого, поэтому я разработал систему трубопроводов, которая позволит мне улучшить транспортировку и хранение жидкостей.",
-	"",
-	"Примечание: Во вкладке \"Логистика\" стали доступны новые исследования!"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "The transport of liquids with the help of buckets is very expensive, so I have developed a pipeline system that allows me to improve the transport and storage of liquids.",
+    "",
+    "Note: New researchables available in \"logistics\"!"
 ]

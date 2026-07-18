@@ -1,5 +1,14 @@
 [
-	"Я создал прочную композитную металлическую дверь, которую можно открывать и закрывать рукой.",
-	"Создание:",
-	{"link":"fp:lang/part/cr_deco.cdoor.json"}
+    {
+        "type": "revision",
+        "changed_date": "2020-05-13"
+    },
+    "I have created a sturdy, composite metal door that I can open and close by hand.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/cr_deco.cdoor.json"
+    },
+    {
+        "link": "futurepack:lang/part/cr_deco.ctrapdoor.json"
+    }
 ]

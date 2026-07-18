@@ -1,4 +1,8 @@
 [
-  "Как правило, тип и направление потока частиц для лазера фиксировано. С помощью знаний о мутировавших кристаллах с Тироса я попытаюсь пойти наперекор этому правилу. Частицы, подобно призмиду, должны нестись к лазерному диоду и использоваться уже там.",
-  "Примечание: Во вкладке \"Производство\" доступны новые исследования!"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "Normally, the type and direction of the particle flow is fixed for a laser. With the knowledge of the mutated crystals of Tyros I try to overturn this rule. Similar to the prismid, particles should flow towards the laser diode and be used there.",
+    "Note: New researchables available in \"Production\"!"
 ]

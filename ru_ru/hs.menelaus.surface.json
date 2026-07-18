@@ -1,3 +1,7 @@
 [
-	"Менелай - это очень засушливая, пустынная планета. Поверхность характеризуется песком и горами. Кажется, что дожди здесь редкое явление, но они как правило очень сильные, что и создало такую местность. Планета очень жаркая. Периодически возникают песчаные бури. Атмосфера сильно загрязнена песком и пылью. Кроме этого, тут есть странные дуги из земли с довольно обычной растительностью."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "Menelaus is a very arid, desert planet. The surface is characterized by sand and mountains. It seems that there is very sparse but heavy rainfall, which created the terrain. The planet is very hot with periodic sandstorms. The atmosphere is heavily polluted by sand and dust. Additionally, there are strange arcs with relatively common vegetation."
 ]

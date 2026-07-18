@@ -1,5 +1,9 @@
 [
-	"Я отправился на Тирос и исследовал эту планету. Теперь я должен использовать собранные материалы для разработки новых технологий и для того, чтобы отправиться ещё дальше.",
-	"Примечание: Доступны новые исследования!",
-	"§0Объект исследования: Биотериевый кристалл или Призмид§r"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I traveled to Tyros and explored the planet. I should now use the materials to develop new technology and travel even further.",
+    "Note: New researchables available!",
+    "\u00a70Research Item: Bioterium Crystal or Prismid\u00a7r"
 ]

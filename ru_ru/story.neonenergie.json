@@ -1,3 +1,7 @@
 [
-	"При помощи этого генератора я смог произвести странную форму энергии. Возможно её удастся использовать, чтобы запитать мои машины. Она должна стать важным ключом к технологиям Недосягаемых. Кроме того, это сможет облегчить мою работу."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I generated a strange form of energy with this generator. Maybe it can be used to power my machines. This should be an important key to the technologies of the Unreachable. Furthermore this can likely make my work easier."
 ]

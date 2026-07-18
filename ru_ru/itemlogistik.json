@@ -1,6 +1,10 @@
 [
-	"Во время работы с воронками и предметами я разработал концепцию универсальной системы по транспортировке предметов.",
-	"Работает она подобно пневматической почтовой системе. Я забрасываю в неё предмет при помощи воронки (к примеру), а затем он будет доставлен в следующее возможное хранилище.",
-	"",
-	"Примечание: Во вкладке \"Логистика\" стали доступны новые исследования!"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "During some experiments with Hoppers and Items, I developed the concept for an universal system for item transport",
+    "It works the same as a pneumatic post system. I pass an Item in by using an hopper (for example) and it will be passed to the next possible Container.",
+    "",
+    "Note: New researchables available in \"logistics\"!"
 ]

@@ -1,7 +1,11 @@
 [
-  "Я обнаружил очень прочный и одновременно лёгкий сплав из тех металлов, что можно найти в этом мире, и назвал своё творение Композитным металлом.",
-  "Он определённо мне во многом пригодится, но, прежде всего, это отличный материал для строительства.",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.ind.compositemetal.json"
-  }
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I discovered a very resistant and light alloy with the metals located in this world, I named my creation Composite Metal.",
+    "It should be very useful in many tasks, but above everything its a great material for structures.",
+    {
+        "link": "futurepack:lang/part/industrialfurnace_production.ind.compositemetal.json"
+    }
 ]

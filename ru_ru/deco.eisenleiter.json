@@ -1,5 +1,11 @@
 [
-	"Я построил лестницу из железных прутьев, и хоть на самом деле она не лучше деревянной, в сооружениях из металла она смотрится гораздо лучше.",
-	"Создание:",
-	{"link":"fp:lang/part/cr_deco.eisenleiter.json"}
+    {
+        "type": "revision",
+        "changed_date": "2020-05-11"
+    },
+    "I've built a ladder out of iron rods. Admittedly, it's not really an improvement to the wooden one, but it looks better for construction in metal buildings.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/cr_deco.eisenleiter.json"
+    }
 ]

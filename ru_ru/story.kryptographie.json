@@ -1,5 +1,9 @@
 [
-    "Я зашёл в странное старое сооружение. У него не было двери, но с поверхности к нему вёл телепортер. Сейчас я где-то под землёй. Но что меня действительно озадачило, так это то, что хоть место это и выглядит очень древним, оно высокотехнологично.",
-    "Тут есть лампы, поэтому, скорее всего, монстров поблизости нет. Я начну исследовать это сооружение и, надеюсь, найду классные технологии или исследовательские чертежи.",
-    "Интересно, каково было его первоначальное назначение..."
-] 
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I entered a strange old building. It did not have a door but rather a teleporter at the surface. Now I am somewere underground. But what really puzzles me is, this whole place looks very ancient but yet it is still high-tech.",
+    "There are lamps in here, so most likely no monsters are around. I will start to explore this building and hopefully find some cool technology or research blueprints.",
+    "I wonder what the original purpose of this facility was..."
+]

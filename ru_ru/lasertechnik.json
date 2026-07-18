@@ -1,12 +1,16 @@
 [
-  "Концентрированный луч света способен перемещать огромное количество энергии, которого достаточно даже для плавки металлов.",
-  "Благодаря моим нескольким новым открытиям, я смог усовершенствовать этот приём, для того чтобы создать чрезвычайно интенсивный луч света.",
-  "Я достиг этого путём подачи энергии в самоцвет, расположенный между двумя полупрозрачными зеркалами. Таким образом, в нужный момент я могу активизировать камень, и он начнёт излучать совершенно синхронный луч света.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_lasertechnik.json"
-  },
-  {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
-  }
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "A concentrated beam of light is able of transporting a vast amount of energy that is even sufficient for melting metal.",
+    "Thanks to a few of my new discoveries I was able to further improve this method to create an extremely intense beam of light.",
+    "I achieved this through the feeding of energy into a gem that is located between two semitransparent mirrors. This way the gem is being stimulated to emit light at the right moment which creates a perfectly synchron beam of light.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_lasertechnik.json"
+    },
+    {
+        "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    }
 ]

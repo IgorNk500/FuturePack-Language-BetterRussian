@@ -1,7 +1,10 @@
 [
-	"Экспериментируя всё больше и больше, я обнаружил, что материал из неона способен передавать энергию практически без потерь. Запитка энергией проводника приводит к тому, что материал переходит в более активное состояние.",
-	"Поток энергии начинает действовать как жидкость и очень быстро распространяется по кабелю. Он всегда отдаёт предпочтение ближайшему потребителю энергии, до тех пор пока не заполнится его энергохранилище.",	
-
-	"Примечание: Во вкладке \"Логистика\" стали доступны новые исследования!",
-	"§0Объект исследования: Кабель§r"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "By further experiments I discovered that the neon material is able to transport energy with nearly no loss. The powering of a conductor causes the material to switch into a more energetic state.",
+    "The energy flow acts like a fluid and spreads extremely fast through the cable. The flow always prefers the nearest consumer, until it's power storage is full.",
+    "Note: New researchables available in \"logistics\"!",
+    "\u00a70Research item: Cable\u00a7r"
 ]

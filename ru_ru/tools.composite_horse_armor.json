@@ -1,0 +1,11 @@
+[
+    {
+        "type": "revision",
+        "changed_date": "2020-04-25"
+    },
+    "I've developed a composite metal horse armor. It is lighter than a conventional armor and protects the horse much better.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_tools.composite_horse_armor.json"
+    }
+]

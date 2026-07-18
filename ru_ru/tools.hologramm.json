@@ -1,0 +1,15 @@
+[
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I developed a tool that allows me to change the physical appearance of blocks.",
+    "I am able to scan any block, upon which the visual structure is saved and can be transfered to any block that supports it.",
+    {
+        "link": "futurepack:lang/part/crafting_tools.hologramm.json"
+    },
+    "\u00a7lShift + right click\u00a7r to save structure",
+    "simple \u00a7lright click\u00a7r to change the appearance",
+    "Note: Some structures are too complex to be saved.",
+    "Supported blocks:\nAny tubes \nAny cables\n"
+]

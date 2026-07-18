@@ -1,3 +1,7 @@
 [
-	"Подземные области этой планеты довольно необычны. Менелай имеет очень большие и просторные системы пещер. По всей видимости, они создаются водой, которая течёт к подземным океанам."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "The underground areas of this planet are very unusual. Menelaus has very large and spacious cave systems. They are presumably carved out by water, which flows together in underground oceans."
 ]

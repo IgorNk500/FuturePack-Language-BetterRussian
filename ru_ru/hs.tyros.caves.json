@@ -1,3 +1,7 @@
 [
-	"Всё то, что находится под землёй Тироса, как раз хранит в себе информацию касательно высокой температуры планеты. Под сильным влиянием газового гиганта планета постоянно слегка деформируется, в результате чего ядро планеты серьёзно нагревается. Это также способствует созданию глубоких расщелин в ландшафте планеты, а также большого количества жидкого камня под её землёй."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "The underground of Tyros provides information about its high temperature. The strong influence of the gas giant, the planet is constantly slightly deformed, which is causing the core of the planet heats up strongly. This also creates deep cracks in the landscape and there is a lot of liquid rock beneath the planet's surface."
 ]

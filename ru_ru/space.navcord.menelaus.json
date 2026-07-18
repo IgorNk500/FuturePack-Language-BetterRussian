@@ -1,9 +1,13 @@
 [
-  "Мало чего можно добиться, используя космический корабль, не имея при этом места, куда можно отправиться. Я построю телескоп, чтобы искать в небе планеты.",
-  "Если я что-то найду, я сделаю соответствующую запись с данными, которую позже смогу вставить в бортовой компьютер.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
-  },
-  "Использовать нажатием \"§lПКМ§r\"."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "A spaceship has little purpose without a destination. I will build a telescope to search the sky for planets.",
+    "Upon finding something I will make a corresponding data record, which I can insert into the onboard computer.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_space.navcord.menelaus.json"
+    },
+    "Use with \"\u00a7lRight Click\u00a7r\"."
 ]

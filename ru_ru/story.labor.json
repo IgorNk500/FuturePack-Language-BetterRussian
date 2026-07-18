@@ -1,3 +1,7 @@
 [
-	"Кажется, я нашёл все аспекты! Но что происходит сейчас?.. Мой электронный сканер показывает мне что-то, что, кажется, является схематической диаграммой, состоящей из изображений странных объектов и устройств. Я должен попытаться следовать этим инструкциям - возможно, они помогут мне понять больше."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "It seems that I found all of the aspects! What happens now...? The E-Scanner shows what seems to be new schematics for strange objects and devices. I should try to follow these instructions; maybe they can help me understand more."
 ]

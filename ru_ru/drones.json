@@ -1,6 +1,11 @@
 [
-	"Мощные машины - это хороший способ обработки предметов, но они всегда находятся в одном и том же месте. Благодаря нескольким исследованиям я разработал альтернативный подход.",
-	"Маленький летающий объект, оснащённый различными типами инструментов... Используя компактную компьютерную систему, эти дроны могут выполнять работу в автономном режиме.",
-	"Примечание: Во вкладке \"Космическое путешествие\" доступны новые исследования!",
-	"§0Объект исследования: Станция дронов§r"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "Heavy machines are a good choice to process items, but they are bound to a single location. With some research, I developed an alternative approach.",
+    "A small flying object, equippable with different types of tools. These drones can perform autonomous work by using their compact computer system.",
+    "I should try to evolve some work-drones.",
+    "Note: New researchables available in \"Space Travel\"!",
+    "\u00a70Research item: Drone Station\u00a7r"
 ]

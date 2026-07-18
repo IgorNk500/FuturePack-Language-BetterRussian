@@ -1,6 +1,10 @@
 [
-	"Думаю, что я обнаружил большинство возможных ресурсов планеты, но где-то их точно должно быть больше. Когда я смотрю на ночное небо, я вижу так много звёзд и других небесных тел.",
-	"Я мог бы попытаться создать что-то, что позволит мне выйти за пределы своей собственной планеты.",
-	"Примечание: Во вкладке \"Космическое путешествие\" доступны новые исследования!",
-	"§0Объект исследования: Бортовой компьютер§r"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I feel to have discovered most of the planet's available resources, but there must be more out there. When I look at the sky at night, I see so many stars and other celestial bodies.",
+    "I could try to create some craft that allows me to free myself from this planet.",
+    "Note: New research is available in \"Space Travel\"!",
+    "\u00a70Research Item: Board Computer\u00a7r"
 ]

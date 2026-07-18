@@ -1,4 +1,8 @@
 [
-	"Кажется, я нашёл красный светящийся кристалл. После проведения анализа я бы классифицировал его как один из металлических полупроводниковых кристаллов.",
-	"Окраска испускаемого им света обусловлена высокой долей остаточного редстоуна в его структуре. Именно из-за этого я дал этому образцу название Багрянит."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I seem to have found a red, glowing crystal. Through my analyses, I would categorize this as a type of metallic semiconductor crystal.",
+    "The coloration of the light is due to the high proportion of residual redstone in the crystal structure. Due to this, I gave the specimen the name Retium crystal."
 ]

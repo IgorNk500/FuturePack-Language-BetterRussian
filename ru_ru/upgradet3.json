@@ -1,12 +1,16 @@
 [
-  "Согласно законам физики этого мира я могу извлекать часть своих знаний при помощи, за неимением лучшего слова, волшебной палочки. Затем я могу привязать эти знания к предметам.",
-  "Возможно я могу использовать этот странный процесс для создания более полезных вещей, чем просто сверкающие инструменты. Моя текущая технология имеет огромный потенциал в его улучшении.",
-  "Я разработал исследовательский модуль на основе Чародейского стола, который позволит мне извлекать мои знания о мире в виде очков опыта, и, если необходимо, возвращать их мне обратно.",
-  "Для своей работы модуль должен быть подключен к Исследователю либо вплотную, либо при помощи сети. Фактическая работа, как обычно, проходит в Исследователе.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_upgradet3.json"
-  },
-  "Модуль хранит до 1500 XP (около 31 уровня). Если этого окажется недостаточно, я могу просто подключить к исследователю несколько таких модулей.",
-  "Однако я также должен подсоединить к Исследователю больше модулей вычисления. В данный момент 8-16 модулей должно быть достаточно."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "According to the laws of physics of this world, I can extract some of my knowledge with the help of - for lack of a better word - a magic wand. I can then bind this knowledge to objects.",
+    "Perhaps I can use this strange process to create things more useful than just glittery tools. My current technology has so much potential for improvement with this.",
+    "I have developed a research module based on the Enchanting Table, which allows me to extract my knowledge of the world in the form of experience points (XP) and, if necessary, inject it again.",
+    "The module must be linked directly to the Researcher or via a network to function. The actual work takes place in the Researcher as normal.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_upgradet3.json"
+    },
+    "The module stores up to 1500 XP (about 31 levels). If this proves insufficient, I can simply connect several modules to a Researcher.",
+    "However, I should also connect more calculation modules to the researcher. Currently, 8-16 modules are expected to be adequate."
 ]

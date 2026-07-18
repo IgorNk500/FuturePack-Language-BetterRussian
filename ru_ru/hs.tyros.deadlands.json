@@ -1,4 +1,8 @@
 [
-	"На почти полностью покрытой растительностью планете я обнаружил совершенно мёртвые области. Пугает то, что в этих каменных пустынях нет никаких следов ни растений, ни животных. Кажется, что-то уничтожило здесь всё живое, поэтому я должен быть предельно осторожен.",
-	"В пустошах я также обратил внимание на остатки гигантских деревьев, которые полностью окаменели. Со временем железо вымывалось из их стволов, поэтому здешняя почва обогащена этим металлом."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "On the otherwise lively planet, I've discovered completely dead areas. Frighteningly there's no trace of plant or animal life to be found in these rocky deserts - anything seems to have wiped out all life, I should be extremely careful.",
+    "In the wastelands, I also noticed remnants of giant trees that were completely petrified. Over time iron was washed out of the trunks, so the soil beneath was enriched with iron."
 ]

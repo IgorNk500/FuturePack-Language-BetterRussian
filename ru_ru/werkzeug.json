@@ -1,5 +1,8 @@
 [
-	"Используя новые материалы и методы изготовления предметов, я могу создать создавать усовершенствованные инструменты.",
-	
-	"Примечание: Во вкладке \"Инструменты\" стали доступны новые исследования!"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "With my new manufacturing methods and materials, I can now create better tools.",
+    "Note: New researchables available in \"Tools\"!"
 ]

@@ -1,25 +1,29 @@
 [
-  "Недавно я задался вопросом: как мне преодолевать большие вертикальные расстояния. Результатом всего этого стал телепортер, который может телепортировать меня вверх и вниз.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/cr_space.teleport.json"
-  },
-  "Жёлтый телепортер - это базовый элемент. Можно телепортироваться к нему, но не от него.",
-  "Вы можете телепортироваться, используя Эндер-жемчуг. Когда он запитан неоновой энергией, а цель стабилизирована, Вы можете использовать его способность, не разрушая сам Эндер-жемчуг.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_space.teleport.json"
-  },
-  "Зелёный телепортер может телепортировать Вас только наверх, независимо от того, является ли он обычным телепортером, или имеет направление Вверх или Вниз.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_space.teleport2.json"
-  },
-  "Красный телепортер не позволяет телепортироваться к себе и, соответственно, может только телепортировать игроков к другим телепортерам. Тип принимающего телепортера не имеет значения.",
-  "Но я заметил, что двойные конструкции имеют возможность телепортировать как вверх, так и вниз.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_space.teleport3.json"
-  },
-  "Если нажать Ключом-отвёрткой ПКМ по двойному телепортеру, он разделится и его нижняя часть будет опускаться, пока не достигнет поверхности. Тем же способом Вы можете соединить два телепортера вновь."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "Recently, I asked myself the question how I can cover larger horizontal distances. The result was a teleporter which can teleport me above and below.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/cr_space.teleport.json"
+    },
+    "The yellow teleporter is the basic element. One can teleport to it, but not away from it.",
+    "You can teleport with an Enderpearl. When they are energized with neon energy and the target is stabilized, you can use the ability without breaking the Enderpearl.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_space.teleport.json"
+    },
+    "The green teleporter can only teleport you to the top, regardless of it being a normal, up, or down teleporter.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_space.teleport2.json"
+    },
+    "The red teleporter can only teleport away. The type of receiving teleporter does not matter.",
+    "However, I also noticed that multi-story buildings have both a possibility to move up and down.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_space.teleport3.json"
+    },
+    "If you use a Scrench to right-click on a double teleporter, it splits apart and the lower part travels down until it hits the ground. Like this, you can easily connect two teleporters again."
 ]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I have developed a specialized drone to cut down trees. It cuts all known trees, but also huge mushrooms and collects the trunk, saplings, and fruits, bringing them to the drone station.",
+    "The Forestmaster can be placed (with \u00a7lsneak + right click\u00a7r) at a drone station. It processes all nearby targets within an 11-block range. To disassemble the drone, I need to use a scrench with \u00a7lsneak  + right click\u00a7r.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/cr_space.forstmaster.json"
+    },
+    "I should consider implementing a replanting function..."
+]

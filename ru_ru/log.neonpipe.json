@@ -1,8 +1,12 @@
 [
-  "Проводя дальнейшие исследования труб и кабелей, я смог изобрести некую конструкцию, сочетающую в себе и то, и другое. Сделал я это, вставив неоновые проводники в алюминиевый каркас труб. И так, я создал предметную трубу, способную передавать неоновую энергию.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_log.neonpipe.json"
-  },
-  "Настройка: Используя ключ-отвёртку, я могу настраивать каждую сторону сегмента трубы таким образом, чтобы на этой стороне она ни с чем не соединялась (Нужно нажать §lПКМ§r по нужной стороне). Помимо этого, данные трубы могут иметь третье состояние, которое отмечается синей точкой на соответствующей стороне. В этом состоянии она будет присоединяться только с целью передачи неоновой энергии, но не предметов."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I was able to develop a combination of pipe and cable, by doing further researches with them. To implement this I have added Neon conductors in the aluminum frame of the pipes. So I created an Item pipe that\u2019s able to transport neon energy.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_log.neonpipe.json"
+    },
+    "Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent them from connecting with this side. (\u00a7lright click\u00a7r on desired side). Furthermore this pipes have a third state, marked by a blue dot on the side. In this state it's only connected for neon energy, but not for Items."
 ]

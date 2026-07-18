@@ -1,8 +1,12 @@
 [
-  "Используя поршень, я могу инвертировать принцип работы Разрушителя блоков.",
-  "Теперь можно класть в машину любые блоки, и если на неё подан редстоун-импульс, она попытается поставить один из этих блоков (перед собой).",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_production.blockplacer.json"
-  }
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "By using a piston, I'm able to invert the effect of the Blockbreaker.",
+    "I can insert any blocks, and if the machine is activated by a Redstone pulse it tries to place one (in front of the machine).",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_production.blockplacer.json"
+    }
 ]

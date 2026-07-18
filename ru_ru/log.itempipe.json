@@ -1,10 +1,14 @@
 [
-  "Я осуществил свою идею по созданию системы транспортировки предметов. Я разработал простую трубу, каркас которой состоит из алюминия, а прозрачные панели - из стекла.",
-  "Трубу можно поставить где угодно, а ещё её можно заполнить при помощи воронок или других устройств, работающих аналогичным образом. Вставленный предмет будет ждать в этом сегменте трубы до тех пор, пока не найдёт возможную цель. Приоритетным будет ближайшее хранилище.",
-  "Если предмет в трубе некуда/нельзя переместить, то этот сегмент заблокирует поступление ещё большего количества предметов.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_log.itempipe.json"
-  },
-  "Настройка: Используя ключ-отвёртку, я могу настроить каждую сторону сегмента трубы таким образом, чтобы на этой стороне она ни с чем не соединялась. (Нужно нажать §lПКМ§r по нужной стороне)"
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I've implemented my idea of an Item transport System. For that I designed a simple tube, composed of an aluminum frame and vision panels made of glass.",
+    "The pipe can be placed free standing and can be filled by hoppers or any device that works in a similar way. An Item put in is going to wait at this pipe segment until it found a possible target. It prefers the nearest Inventory.",
+    "If an item stack can't be carried away it will block the pipe segment against Inserting more Items.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_log.itempipe.json"
+    },
+    "Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent it from connecting with this side. (\u00a7lright click\u00a7r on desired side)"
 ]

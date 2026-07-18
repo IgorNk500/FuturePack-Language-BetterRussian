@@ -1,10 +1,14 @@
 [
-  "Мой простой бортовой компьютер, к сожалению, не способен рассчитать пути движения для сверхсветовых двигателей. Всё потому, что несмотря на процессор внутри самого двигателя, для управления и расчёта курса необходимы ещё более точные данные, плюс ко всему мне также придётся компенсировать логику пространственно-временного континуума (или её отсутствие), а также эффекты квантовой механики. Вот почему я создал улучшение, а затем использовал мощный квантовый компьютер в качестве процессора.",
-  "Я также исправил некоторые недостатки, которые имела первая версия бортового компьютера. К примеру, сообщение \u0027Ваш космический корабль открыт\u0027 теперь показывает, где именно он открыт.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_space.advanced.json"
-  },
-  "Дополнительные примечания можно посмотреть в статье о бортовом компьютере.",
-  "В зависимости от цвета корпуса каждый бортовой компьютер имеет разный графический интерфейс."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "My simple board computer is unfortunately not able to calculate the travel paths for the FTL-Drive. Because, despite the processing unit in the FTL itself, even more precise data for control and course calculation is needed, and I have to compensate for spacetime logic (or lack thereof) and effects of quantum mechanics. That's why I created an upgrade and used a powerful quantum computer as the CPU.",
+    "I also fixed some problems the first version of the board computer had. For example, the message 'Your spaceship is open' also points out where it is open.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_space.advanced.json"
+    },
+    "More notes for usage are available at the entry of the board computer.",
+    "Depending on the color of the housing, each board computer has a different graphic user interface."
 ]

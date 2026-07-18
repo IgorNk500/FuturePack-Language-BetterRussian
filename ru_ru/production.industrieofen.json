@@ -1,17 +1,17 @@
 [
-  "Эта улучшенная печка работает на лаве, которую можно залить при помощи вёдер или труб. Она использует энергию лавы для того, чтобы плавить предметы, которые, в свою очередь, медленно охлаждают лаву, в конце концов превращая её в обсидиан. Энергия позволяет плавить до трёх предметов одновременно.",
-  "Создание:",
-  {
-    "link": "fp:lang/part/crafting_production.industrieofen.json"
-  },
-  "Использование (GUI):",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
-  },
-  "Технические характеристики:",
-  "Использование лавы: 10 mB за 1 расплавленный предмет",
-  "Производство обсидиана: 1 обсидиан на 1000mB истраченной лавы",
-  "Скорость: 400 тиков за одно исполнение процесса (20 сек.)",
-  "",
-  "Примечание: Возможно я могу совмещать материалы в 3-х слотах для создания сплавов или очистки ресурсов."
+    {
+        "type": "revision",
+        "changed_date": "2020-05-11"
+    },
+    "This advanced furnace is powered by Lava, which can be inserted by buckets or pipes. It use this energy to smelt items that cool down the Lava slowly until they solidify to obsidian. This power allows to smelt up to 3 Items at the same time.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_production.industrieofen.json"
+    },
+    "Technical Data:",
+    "Lava-Usage: 10 mB per molten Item",
+    "Production of Obsidian: 1 Obsidian per 1000mB consumed Lava",
+    "Speed: 400 Ticks per Cycle (20 sec)",
+    "",
+    "Note: Maybe I can combine the materials of the 3 slots to create alloys or refine my Resources"
 ]

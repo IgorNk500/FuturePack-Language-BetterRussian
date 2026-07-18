@@ -1,12 +1,17 @@
 [
-	"Я создал простой двигатель Стирлинга и нашёл способ превращать энергию вращения в неоновую энергию. Двигатель работает на двух цилиндрах, один охлаждается, а другой нагревается от огня. Вместе они создают закрытую систему, которая нагревает/охлаждает воздух внутри, а затем смещает его на другой цилиндр. Благодаря расширению и сжатию воздуха система создаёт энергию.",
-	"Тепло можно получить из любого горючего материала. Генератор не очень мощный, но его достаточно для моих текущих нужд.",
-	"Создание:",
-	{"link":"fp:lang/part/cr_energy.generator.json"},
-	
-	"Технические характеристики:",
-	"Энергии за тик: 0.5 NE",
-	"Энергии за время горения: 0.5 NE",
-	"",
-	"Информация: Нижний слот для топлива, верхний - для батареек. Шкала слева показывает уровень заполнения внутреннего накопителя энергии."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I made a simple Stirling engine and found a way to transform the rotation into neon energy. The engine works with two cylinders, one is cooled and the other heated up by fire. In combination they create a closed system, which heats/cools air inside and presses them into the other cylinder. Through the expansion and contraction of air the system creates energy.",
+    "The heat can be created by every burnable material. The generator is not really powerful, but enough for my current usage.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/cr_energy.generator.json"
+    },
+    "Technical Data:",
+    "Energy per Tick: 0.5 NE",
+    "Energy per Burntime: 0.5 NE",
+    "",
+    "Information: The bottom slot is for fuel and the upper one for batteries. The left bar shows the filling level of the internal energy storage."
 ]

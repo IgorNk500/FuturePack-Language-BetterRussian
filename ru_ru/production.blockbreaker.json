@@ -1,9 +1,16 @@
 [
-  "При помощи кирки, которая приводится в движение раздатчиком, я могу ломать блоки автоматически.",
-  "Если эта машина поставлена перед разрушаемым блок и при этом активирована импульсом редстоуна, она сломает этот блок, а затем выбросит его с задней стороны.",
-  "Создание:",
+    {
+        "type": "revision",
+        "changed_date": "2022-01-12"
+    },
+    "With a pickaxe triggered by a simple dispenser I can break Blocks automatically.",
+    "If this machine is placed in front of a destroyable block and activated by a Redstone pulse, it destroys the block and puts it out behind.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_production.blockbreaker.json"
+    },
+  "The machine can be upgraded with range, luck and silk touch.",
   {
-    "link": "fp:lang/part/crafting_production.blockbreaker.json"
-  },
-  "Машину можно улучшить, положив внутрь зачарованные книги."
+    "link": "futurepack:lang/part/crafting_production.blockbreaker_upgrades.json"
+  }
 ]

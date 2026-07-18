@@ -1,8 +1,16 @@
 [
-	"Я изобрёл сложную конструкцию, сделанную из композитного металла и железных прутьев - вентиляционный блок.",
-	"Создание:",
-	{"link":"fp:lang/part/cr_deco.vent.json"},
-	{"link":"fp:lang/part/cr_deco.ventslab.json"},
-	"Информация: Данные блоки можно обесцвечивать и раскрашивать при помощи аэрографа.",
-	"Информация: При разрушении двух плит, поставленных друг на друга, выпадет целый блок."
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I created a complex structure from compound metal and iron bars, a vent block.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/cr_deco.vent.json"
+    },
+    {
+        "link": "futurepack:lang/part/cr_deco.ventslab.json"
+    },
+    "Information: This block can be (un)colored using the air brush.",
+    "Info: Two slabs placed on top of another will drop a full block when destroyed."
 ]

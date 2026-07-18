@@ -1,0 +1,11 @@
+[
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "I developed an axe made of composite metal, making it somewhat stronger and more durable than conventional tools. With an optimal balance, I can swing it very easily.",
+    "Crafting:",
+    {
+        "link": "futurepack:lang/part/crafting_tools.composite_axe.json"
+    }
+]

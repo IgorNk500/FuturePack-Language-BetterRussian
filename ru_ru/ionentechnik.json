@@ -1,4 +1,8 @@
-[	
-	"Электричество также существует на открытом пространстве, что особенно заметно во время грозы. Заряженные частицы можно часто встретить парящими в воздухе. Они являются неполными атомами, которые я называю ионами.",
-	"Материал под названием плазма, который я уже хорошо знаю, представляет собой газ с большим количеством этих самых ионов. Я должен продолжить изучать данные частицы, чтобы лучше понять проводящие материалы. Быть может, я также смогу каким-то образом собирать свободно парящие в воздухе ионы и превращать их в полезную энергию."
+[
+    {
+        "type": "revision",
+        "changed_date": "2019-09-20"
+    },
+    "Electricity also exists in the open air, which is especially evident during thunderstorms. Oftentimes, charged particles can be found floating in the air. They are incomplete atoms, which I call ions.",
+    "The material called plasma that I already know well is a gas with large amount of such ions. I should continue to study these particles to understand conductive materials better. Maybe I can also somehow collect free-floating ions from the air and convert them into usable energy."
 ]

@@ -1618,7 +1618,7 @@
 
   "research.unlocks.items": "Исследование разблокирует:",
 
-  "futurepack.item.is_composite_armor": "§e*в эту броню могут быть установнены модули",
+  "futurepack.item.is_composite_armor": "§e* в эту броню могут быть установлены модули",
 
   "futurepack.infusion.fuel": "Топливо Инфузионного генератора: Производит §b%s NE",
   "futurepack.infusion.fuel.factor": "Катализатор Инфузионного генератора: §bNE x %s",

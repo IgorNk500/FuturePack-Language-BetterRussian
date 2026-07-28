@@ -3,19 +3,6 @@
         "type": "revision",
         "changed_date": "2026-07-28"
     },
-    "Я разработал сложную структуру из композитного металла и железных прутьев — решётчатый блок.",
-    "Крафт:",
-    {
-        "link": "futurepack:lang/part/cr_deco.gitter.json"
-    },
-    {
-        "link": "futurepack:lang/part/cr_deco.gitterpane.json"
-    },
-    {
-        "link": "futurepack:lang/part/cr_deco.gitterslab.json"
-    },
-    {
-        "link": "futurepack:lang/part/cr_deco.gittertreppe.json"
-    },
-    "Инфо: блоки можно (де)красить с помощью аэрографа."
+    "Решётка (gitter) — декоративный элемент для обшивки и ограждений на базах и станциях.",
+    "Она обеспечивает вентиляцию и защиту одновременно."
 ]

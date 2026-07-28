@@ -3,23 +3,6 @@
         "type": "revision",
         "changed_date": "2026-07-28"
     },
-    "Я создал простые конструкции из композитного металла — обычные, прочные блоки.",
-    "Крафт:",
-    {
-        "link": "futurepack:lang/part/cr_deco.metall.json"
-    },
-    {
-        "link": "futurepack:lang/part/cr_deco.metallslab1.json"
-    },
-    {
-        "link": "futurepack:lang/part/cr_deco.metalltreppe1.json"
-    },
-    "Альтернатива:",
-    {
-        "link": "futurepack:lang/part/cr_deco.metallslab2.json"
-    },
-    {
-        "link": "futurepack:lang/part/cr_deco.metalltreppe2.json"
-    },
-    "Инфо: эти блоки можно (де)красить с помощью аэрографа."
+    "Металлические декоративные панели — прочные элементы оформления, защищающие оборудование и придающие станции индустриальный вид.",
+    "Можно использовать для внешней и внутренней отделки модулей."
 ]

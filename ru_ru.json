@@ -1637,5 +1637,17 @@
   "futurepack.slot.block_breaker.range": "§eСлот для улучшения уровня добычи§r",
   "futurepack.slot.block_breaker.silcktouch": "§сСлот для улучшения Шёлкового касания§r",
 
-  "block.futurepack.spaceship_mover":	"Маневровый двигатель"
+  "block.futurepack.spaceship_mover":	"Маневровый двигатель",
+
+
+  ///////////////////////////////////////////////////////////////////////////
+
+
+  "futurepack.item.broken": "Сломано!",
+
+  // Deepslates for 1.18.2
+  "block.futurepack.ore_bauxite_deepslate": "Глубинная бокситовая руда",
+  "block.futurepack.ore_tin_deepslate": "Глубинная оловянная руда",
+  "block.futurepack.ore_zinc_deepslate": "Глубинная цинковая руда",
+  "block.futurepack.ore_magnetite_deepslate": "Глубинная магнетитовая руда"
 }

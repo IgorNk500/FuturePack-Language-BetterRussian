@@ -1,13 +1,12 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "I developed a tool for the recycler to put into the middle slot.",
-    "It's a scanner which scans and analyzes the unit layer by layer. It produces support points in the process.",
-    "Crafting:",
-    {
-        "link": "futurepack:lang/part/crafting_production.recycler.analyzer.json"
-    },
-    "This unit can analyze all products of the Assembly Table. For cores, chipsets, and RAM, the amount of Support Points depends on the power of the component."
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Я разработал инструмент для Recycler, который нужно вставлять в центральный слот. Это сканер, сканирующий изделие по слоям и анализирующий его. В процессе он генерирует очки Поддержки.",
+  "Ремесло:",
+  {
+    "link": "futurepack:lang/part/crafting_production.recycler.analyzer.json"
+  },
+  "Этот модуль может анализировать все продукты Assembly Table. Для ядер, чипсетов и оперативки количество очков Поддержки зависит от мощности компонента."
 ]

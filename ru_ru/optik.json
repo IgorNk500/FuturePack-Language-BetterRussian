@@ -1,9 +1,8 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2020-05-11"
-    },
-    "After detailed analysis of light and its interactions with different materials, I have reached some new conclusions.",
-    "With this knowledge I can try to make some improved, transparent materials and artificial light sources.",
-    "Note: New researchable available in \"Space Travel\"!"
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Оптика — раздел технологий, связанный с линзами, фильтрами и системами визуализации. Линзы используются в сканерах и некоторых производственных машинах.",
+  "Изучение оптики позволяет улучшить точность сканирования и повысить эффективность некоторых рецептов."
 ]

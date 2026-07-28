@@ -1,12 +1,9 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "After a long time using it, I finally understand how the E-Scanner is working... mostly.",
-    "This gives me the oppurtunity to reproduce it, in case I lose mine, or I need more.",
-    {
-        "link": "futurepack:lang/part/cr_tools.escanner.json"
-    },
-    "Maybe I can use this knowledge to find ways to improve the E-Scanner and add some custom modules."
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "E-сканер — высокотехнологичное устройство для сканирования предметов и создания чертежей исследований. Буквенная приставка E подчёркивает электронную природу устройства.",
+  "Сканер создаёт голографические шаблоны, которые можно использовать в Researcher для получения знаний и открытия рецептов.",
+  "Использование: поместите предмет в слот сканера и начните процесс — затем скорректируйте аспекты для получения корректного чертежа."
 ]

@@ -1,10 +1,8 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "I have managed to reach another stranger world in orbit of another star.",
-    "It is a small moon of a gas planet. The moon has a thin but breathable atmosphere. The climate is unexpectedly hot and humid, and is thus very similar to the tropics.",
-    "I can still survive here without any problems. I call this world Tyros!",
-    "\u00a7lI should use the E-Scanner to explore Tyros! Look the \"Story\"-Tab.\u00a7r"
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Тирос — мир с необычными биоматериалами и новыми минералами. Его поверхности отличаются агрессивной геологией, но он богат ресурсами, применимыми в квантовой технике.",
+  "Исследование Тироса может дать органические материалы, такие как биотерий, полезные для улучшения процессоров и других устройств."
 ]

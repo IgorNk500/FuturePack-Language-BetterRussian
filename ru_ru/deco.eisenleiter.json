@@ -1,10 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I've built a ladder out of iron rods. Admittedly, it's not really an improvement to the wooden one, but it looks better for construction in metal buildings.",
-    "Crafting:",
+    "Я собрал лестницу из железных стержней. Не намного лучше деревянной, но выглядит солиднее в металлических постройках.",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/cr_deco.eisenleiter.json"
     }

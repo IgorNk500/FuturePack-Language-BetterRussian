@@ -1,13 +1,13 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "The redstone control chipset works for any kind of machine, and can even be used to construct a mainboard. It ensures that the machine will check whether it gets a redstone signal to run and will shut down after the signal is removed.",
-    "This chipset will allow me to shut down large machine systems remotely to help save power when not in use.",
-    "Assembly:",
+    "Красныйstone-контрольный чипсет подходит для любых машин и даже для создания материнки. Он заставляет машину проверять сигнал редстоуна перед запуском.",
+    "Чип позволяет мне удалённо отключать большие системы, экономя энергию, когда они не используются.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.redstone.json"
     },
-    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+    "Подсказка: смотрите \"Logic Chipset\" для общей информации о чипсетах."
 ]

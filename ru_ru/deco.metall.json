@@ -1,10 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I created simple structures out of compound metal: ordinary, solid blocks.",
-    "Crafting:",
+    "Я сделал простые блоки из композитного металла — массивные и надёжные.",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/cr_deco.metall.json"
     },
@@ -14,12 +14,12 @@
     {
         "link": "futurepack:lang/part/cr_deco.metalltreppe1.json"
     },
-    "Alternative:",
+    "Альтернатива:",
     {
         "link": "futurepack:lang/part/cr_deco.metallslab2.json"
     },
     {
         "link": "futurepack:lang/part/cr_deco.metalltreppe2.json"
     },
-    "Information: This blocks can be (un)colored using the air brush."
+    "Инфо: эти блоки можно (де)окрашивать аэрографом."
 ]

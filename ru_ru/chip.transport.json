@@ -1,15 +1,15 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I developed an upgrade for my machines, making use of a principle similar to the item pusher and programming it into a specialized chipset.",
-    "This system ensures that the machine expels its products or materials that are no longer needed to a side that I designate as the output (using a logistics editor in item mode).",
-    "Assembly:",
+    "Я создал улучшение à la item pusher, запрограммированное в специализированный транспортный чип.",
+    "Система выводит продукты или ненужные материалы в назначенный выход (с помощью логистического редактора в режиме предметов).",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.transport.json"
     },
-    "A high quality transport chipset (high chip power) has no advantages over a normal one!",
-    "Info: The actual effect of this chipset will be determined by the machine in which this chipset is installed.",
-    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+    "Чип транспортировки высокого качества не даёт преимуществ по сравнению с обычным!",
+    "Инфо: эффект зависит от машины, в которой установлен чип.",
+    "Подсказка: смотрите \"Logic Chipset\" для общей информации о чипсетах."
 ]

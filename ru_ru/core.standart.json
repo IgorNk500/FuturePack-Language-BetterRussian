@@ -1,14 +1,14 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I found that silicon that was \"contaminated\" with iron has different properties compared to pure silicon. Using this new silicon and adding copper parts as connectors, I managed to create a universal processing unit.",
-    "When assembled carefully and given some external direction, my primitive processor can perform algorithms and execute many different calculations.",
-    "Assembly:",
+    "Я обнаружил, что кремний, загрязнённый железом, ведёт себя иначе. Используя новый кремний и медные соединители, мне удалось создать рабочий процессор.",
+    "При аккуратной сборке и внешнем управлении мой примитивный процессор может выполнять различные вычисления.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_core.standart.json"
     },
-    "Info:",
-    "Processors possess 1 critical property: Their capacity (\u00a7lCore\u00a7r), which indicates the maximum load (refer to Chipsets and Memory entries for more information) that the processor can handle before it begins to heat up. When the temperature exceeds a core's maximum operating temperature, it'll fry up!"
+    "Инфо:",
+    "Процессоры имеют одно ключевое свойство: их ёмкость (\u00a7lCore\u00a7r), показывающую максимальную нагрузку (см. записи о чипсетах и памяти для подробностей)."
 ]

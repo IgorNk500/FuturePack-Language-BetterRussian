@@ -1,11 +1,11 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "The possibilities of \"Overclocking\" are limited and are only applicable to blocks with a computer system. With the help of nanostructure manipulation, I can manipulate any block that performs a task (ticking tileEntity) to add additional work steps.",
-    "To do this, I have developed a machine that can be placed upon other blocks. It has an internal computer system and needs a source of neon energy to function. A single external processing unit at a RAM value of 100% doubles the speed of the block.",
-    "Crafting:",
+    "Возможности разгона ограничены и применимы только к блокам с вычислительной системой. С помощью манипуляции наноструктурами я могу повлиять на поведение блока.",
+    "Я разработал машину, которую можно ставить на другие блоки: у неё есть встроенный компьютер и требуется источник неоновой энергии. Один внешний процессорный модуль...",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/crafting_chips.externalcore.json"
     }

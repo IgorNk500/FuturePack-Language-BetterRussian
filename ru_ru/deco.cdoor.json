@@ -1,10 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-13"
+        "changed_date": "2026-07-28"
     },
-    "I have created a sturdy, composite metal door that I can open and close by hand.",
-    "Crafting:",
+    "Я сделал прочную дверь из композитного металла — открывается и закрывается вручную, выглядит надёжно.",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/cr_deco.cdoor.json"
     },

@@ -1,16 +1,16 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I discovered that small quartz crystals can be used as both a clock generator as well as for the permanent storage of input information.",
-    "In combination with some programming code, silicon, and some energy conductors made from copper, I developed a universal chipset, mainly functioning as a bridge between the processor and the rest of the components.",
-    "Furthermore, this logic chipset will always contain the basic code for the processor, allowing the system to boot. For the time being, every system I create will need one of these chipsets.",
-    "Assembly:",
+    "Маленькие кварцевые кристаллы годятся и как генератор тактов, и для постоянного хранения входных данных.",
+    "В связке с некоторым кодом, кремнием и медными проводниками я создал универсальный чипсет, служащий мостом между процессором и периферией.",
+    "Кроме того, этот логический ч��псет содержит базовый код загрузки — любая моя система нуждается в таком чипсете.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.logic.json"
     },
-    "A logic chipset of high quality (high chip power) has no benefits compared to a normal one!",
-    "General Information About Chipsets:",
-    "Chipsets possess 2 critically important properties. 1) Their performance (\u00a7lChip Power\u00a7r), which indicates the power of their effect, and the load they draw in a machine (\u00a7lCore Power\u00a7r), indicating the dedicated performance needed from the machine's processor."
+    "Логический чипсет высокого качества не даёт преимуществ по сравнению с обычным!",
+    "Общая информация о чипсетах:",
+    "У чипсетов есть 2 критически важных свойства: 1) их мощность (\u00a7lChip Power\u00a7r), показывающая силу эффекта и нагрузку в машине..."
 ]

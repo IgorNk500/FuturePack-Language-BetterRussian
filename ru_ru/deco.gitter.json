@@ -1,10 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I developed a complex structure made from composite metal and iron bars: a grid block.",
-    "Crafting:",
+    "Я придумал сложную конструкцию из композитного металла и железных прутьев — решётчатый блок.",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/cr_deco.gitter.json"
     },
@@ -17,5 +17,5 @@
     {
         "link": "futurepack:lang/part/cr_deco.gittertreppe.json"
     },
-    "Information: The blocks can be (un)colored using the air brush."
+    "Информация: блоки можно (де)окрашивать аэрографом."
 ]

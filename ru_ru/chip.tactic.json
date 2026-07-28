@@ -1,15 +1,15 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I developed a specialized chipset that can enhance the ability of few machines' to interact with their environment.",
-    "It is especially useful in machines that kill creatures, since this chip enhances their reach.",
-    "Assembly:",
+    "Я разработал специализированный тактический чипсет, который усиливает взаимодействие машин с окружением.",
+    "Особенно полезен в машинах, убивающих сущностей: этот чип увеличивает их радиус и точность.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.tactic.json"
     },
-    "A high quality tactical control chipset (high chip power), as well as mounting multiple chipsets, increases their effects accordingly.",
-    "Info: The actual effect of this chipset will be determined by the machine in which this chipset is installed.",
-    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+    "Чипсет тактического управления высокого качества (высокая мощность чипа), а также установка нескольких чипов повышают эффект.",
+    "Инфо: реальный эффект определяется машиной, в которую установлен чип.",
+    "Подсказка: смотрите \"Logic Chipset\" для общей информации о чипсетах."
 ]

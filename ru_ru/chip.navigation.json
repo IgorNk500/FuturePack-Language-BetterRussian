@@ -1,15 +1,15 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I've developed a new chipset that allows machines to keep track of their location.",
-    "After I analyzed how compasses work, I managed to recreate it in a more compact, electronic form.",
-    "Assembly:",
+    "Я сделал чипсет, который позволяет машинам отслеживать своё положение.",
+    "Проанализировав работу компаса, я воссоздал его в компактной электронной форме.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.navigation.json"
     },
-    "A higher quality transportation chipset (high chip power) bears no advantage over a regular one!",
-    "Info: The actual effect of this chipset will be determined by the machine in which this chip is placed.",
-    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+    "Чип транспортировки высокого качества не даёт преимуществ по сравнению с обычным!",
+    "Инфо: реальный эффект определяется машиной, в которую установлен чип.",
+    "Подсказка: смотрите \"Logic Chipset\" для общей информации о чипсетах."
 ]

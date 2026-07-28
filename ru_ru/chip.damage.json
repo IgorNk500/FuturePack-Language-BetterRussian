@@ -1,13 +1,13 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I have developed a special chipset that is able to deactivate the whole machine if it begins to overheat. This prevents component failure and destruction.",
-    "Assembly:",
+    "Я разработал чип для защиты от перегрева: если машина начинает зашкаливать по температуре, чип отключит её целиком. Это спасает детали от разрушения.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.damage.json"
     },
-    "A damage control chipset of high quality (high chip power) has no additional benefits compared to a normal one!",
-    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+    "Чип контроля повреждений высокого качества (с высокой мощностью чипа) не даёт дополнительных преимуществ по сравнению с обычным!",
+    "Подсказка: смотрите \"Logic Chipset\" для общей информации о чипсетах."
 ]

@@ -1,10 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "Through my efforts in studying optical physics and my compound metal, I was able to craft an exceptionally durable glass with a colored metal frame.",
-    "Crafting:",
+    "Изучая оптику и композитный металл, я создал особо прочное стекло в цветной металлической рамке.",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/cr_deco.glass.json"
     }

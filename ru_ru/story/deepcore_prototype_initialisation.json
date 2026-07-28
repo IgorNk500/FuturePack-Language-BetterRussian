@@ -1,11 +1,11 @@
 [
     {
         "type": "revision",
-        "changed_date": "2021-11-24"
+        "changed_date": "2026-07-28"
     },
-    "\u00a7lDeepcore Prototype Initilisation and Reset Protocol\u00a7r",
-    "This setup is a prototype of a Deepcore miner for testing. In order to ensure smooth operations make sure to have a strong power supply, the needed parts can be found in a chest nearby. Dont forget to install the industrial chips and the ram for best energy production of the infusion generators!",
-    "To start the Deepcore miner install the supplied core & ram for enough processing power and activate the machine with your scrench. (NOTE: I added a big scrench on the block soo you can click at the wrong one!!! - why are our scientist like this ?!)",
-    "First the bedrock rift must be scanned with a white lense. After that ores shold be produced via red lenses and green lenses can restore the bedrock rift to ensure it never runs out of ores.",
-    "More of this will be available in your personal E-Scanning devices"
+    "§lПротокол инициализации и сброса прототипа Глубинного шахтёра§r",
+    "Данная установка является прототипом Глубинного шахтёра для тестирования. Чтобы обеспечить бесперебойную работу, убедитесь в наличии надежного источника питания, необходимые детали можно найти в ящике неподалеку. Не забудьте установить промышленные чипы и оперативную память для оптимального энергопотребления инфузионных генераторов!",
+    "Чтобы запустить Глубинный шахтёр, установите прилагаемое ядро и оперативную память, чтобы обеспечить достаточную вычислительную мощность, и активируйте машину с помощью гаечного ключа. (ПРИМЕЧАНИЕ: я добавил рисунок гаечного ключа на блок, чтобы вы вы поняли куда нажимать!!! - почему наши ученые такие?..)",
+    "Сначала необходимо просканировать разлом Бедрока с помощью белой линзы. После этого руда будет добываться с помощью красных линз, а зеленые линзы помогут восстановить разлом Бедрока, чтобы гарантировать, что руда в нем никогда не закончится.",
+    "Более подробная информация будет доступна на ваших персональных E-Сканнерах"
 ]

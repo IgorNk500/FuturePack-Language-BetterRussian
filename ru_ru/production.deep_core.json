@@ -1,18 +1,17 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "The resources of the planets are limited and even at a shallow depth the rock is impenetrable for normal tools . However, I suspect that there is an almost inexhaustible source of resources below the Bedrock. The best chance are the Bedrockrifts. With a suitable mining machine I should be able to mine ores from them.",
-    "Crafting:",
-    {
-        "link": "futurepack:lang/part/crafting_production.deep_core.json"
-    },
-    "Konstruktion:",
-    {
-        "link": "futurepack:lang/part/building_production.deep_core.json"
-    },
-    "The Deep Core Miner is a construct of 8 blocks and must be placed in the middle over an Bedrock Rift. By activating the base block using a scrench, the Miner can be assembled.",
-    "On the side of the chestsyou can access the storage. The actual operation can be accessed via the front panel. The Scrench can be used to change the computer system inside the base block (lower front) to improve the machine.",
-    "The Deep Miner uses huge amounts of neon energy and in some modes of operation also support points. Mined items are automatically pushed to attached inventories and pipes at the back side. The bottom 3 blocks supports the comparator to provide various status information (number of lenses, rift state, inventory level)"
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Ресурсы планет ограничены, и даже на небольшой глубине порода непроходима для обычных инструментов. Тем не менее, под коренной породой могут скрываться почти неисчерпаемые залежи — Щели в Бедроке. С подходящей добывающей машиной я смогу добывать руду из этих разломов.",
+  "Ремесло:",
+  {
+    "link": "futurepack:lang/part/crafting_production.deep_core.json"
+  },
+  "Конструкция:",
+  {
+    "link": "futurepack:lang/part/building_production.deep_core.json"
+  },
+  "Deep Core Miner состоит из 8 блоков и должен быть установлен над Bedrock Rift. При активации базового блока с помощью Scrench можно собрать майнер.",
+  "Добыча требует больших объёмов Неоновой энергии и в некоторых режимах также очков Поддержки. Добытые предметы автоматически выталкиваются в подключённые инвентари и трубопроводы сзади. Нижние три блока поддерживают компаратор для отображения статуса (количество линз, состояние разлома, уровень инвентаря)."
 ]

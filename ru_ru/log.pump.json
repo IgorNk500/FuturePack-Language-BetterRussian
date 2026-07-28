@@ -1,15 +1,15 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "I've developed a pump to transport fluids better. The Pump contains a computer system and can be upgraded to increase throughput. In addition to the operating speed (based on RAM), it also depends on the performance of the Transport Chipsets.",
-    "The pump can be supplied with neon energy from each side. On the sides I installed Tube connectors, a green one  for input and a red one for output. The pump will suck liquid from all the sources connected by Tubes and store it in the internal tank. On the output side, the pump tries to transfer the liquid to a valid destination.",
-    "Buckets can be emptied and filled through the GUI. A filter can be set in the upper, central slot to limit the pump to a specific fluid.",
-    "Crafting:",
-    {
-        "link": "futurepack:lang/part/crafting_log.pump.json"
-    },
-    "Supported Chipsets:",
-    "Logic Chipset\nTransport Chipset(throughput)\nRedstone Control Chipset\nDamage Control Chipset"
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Я разработал насос для более эффективной транспортировки жидкостей. Насос содержит вычислительную систему и может быть улучшен для увеличения пропускной способности. Скорость работы зависит от RAM и от пропускной способности транспортных чипсетов.",
+  "Насос можно питать Неоновой энергией со всех сторон. Сбоку установлены разъёмы для труб: зелёный — вход, красный — выход. Насос засасывает жидкость из всех подключённых источников и хранит её во внутреннем резервуаре. На выходе он переводит жидкость в подходящую цель.",
+  "В GUI можно опорожнять и наполнять ведра. Для ограничения перекачки можно установить фильтр в верхнем центральном слоте.",
+  "Ремесло:",
+  {
+    "link": "futurepack:lang/part/crafting_log.pump.json"
+  },
+  "Поддерживаемые чипсеты:",
+  "Logic Chipset\nTransport Chipset (пропускная способность)\nRedstone Control Chipset\nDamage Control Chipset"
 ]

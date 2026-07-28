@@ -1,12 +1,12 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "To get the miner up and running, the Rift must first be scanned by placing a white lens into the top slot. The remaining durability of the active lens is displayed to the left of the slot. The progress bar for the current cycle is shown at the center.",
-    "When the first cycle (with white lens) is completed, the lens can be removed again via the button directly underneath the lens slot. In the tooltip of the Bedrock Rift (bottom of the GUI) the fill rate as well as the ore distribution can be read off. The ore distribution results from the ores that were originally generated in the surroundings of the crack and can not be affected.",
-    "\u00a7lMining:\u00a7r To mine ores, red lenses must be inserted. When a cycle is completed, the fill rate determines if the cycle was successful. If successful, a ore is randomly picked from the ore distribution and stored to the inventory. Every successful cycle destabilizes the Rift, thus reducing the fill rate.",
-    "\u00a7lRegeneration:\u00a7r With the help of green lenses, the Rift can be stabilized. After each cycle, the fill rate increases by 5%, but support points are needed.",
-    "\u00a7lChipsets:\u00a7r\n\u00a70Industrial Chipset:\u00a7r Increases the amount of ore per cycle, significantly increases the damage to the Rift \n\u00a70Tactic Control Chipset:\u00a7r Mining with Silk-Touch\n\u00a70Support Chipset:\u00a7r Produces support points on every mined ore, increases cycle time\n\u00a70Navigation Chipset:\u00a7r Enables Filter*, increases cycle time\n\u00a70AI Chipset:\u00a7r Reduces the wear of the lenses\n\u00a70Ultimate und Network Chipset:\u00a7r Generates experience points",
-    "\u00a7lFilter:\u00a7r Only ores are mined that correspond to the filter (3 slots in the middle). Cycles that do not yield suitable ore are considered as unsuccessful and the crack is not damaged. This does NOT increase the chance of corresponding ores."
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Чтобы запустить майнер, сначала нужно просканировать разлом, поместив белую линзу в верхний слот. Индикация оставшейся прочности активной линзы отображается слева от слота. Индикатор текущего цикла показан в центре.",
+  "Когда первый цикл (с белой линзой) завершён, линзу можно извлечь кнопкой под слотом. В подсказке Bedrock Rift видно скорость заполнения и распределение руды.",
+  "§lДобыча:§r Для добычи руды необходимо вставлять красные линзы. При завершении цикла вероятность успеха определяется скоростью заполнения. При успехе случайная руда из распределения помещается в инвентарь. Каждый успешный цикл ослабляет разлом, уменьшая скорость заполнения.",
+  "§lРегенерация:§r С помощью зелёных линз можно стабилизировать разлом. После каждого цикла скорость заполнения увеличивается на 5%, но для этого требуются очки Поддержки.",
+  "§lЧипсеты:§r\n§0Industrial Chipset:§r Увеличивает количество руды за цикл, значительно увеличивает повреждение разлома \n§0Tactic Control Chipset:§r Добыча с Silk-Touch\n§0Поддержка Chipset:§r Даёт очки Поддержки при каждой добытой руде, увеличивает время цикла\n§0Navigation Chipset:§r Включает фильтр*, увеличивает время цикла\n§0AI Chipset:§r Снижает износ линз\n§0Ultimate и Network Chipset:§r Генерируют Очки Опыт\n",
+  "§lФильтр:§r Во время фильтрации добываются только те руды, которые соответствуют фильтру (3 слота в середине). Циклы без подходящей руды считаются неуспешными и не повреждают разлом. Это НЕ увеличивает шансы на поиск соответствующих руд."
 ]

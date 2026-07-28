@@ -1,16 +1,16 @@
 [
-    {
-        "type": "revision",
-        "changed_date": "2019-09-20"
-    },
-    "According to the laws of physics of this world, I can extract some of my knowledge with the help of - for lack of a better word - a magic wand. I can then bind this knowledge to objects.",
-    "Perhaps I can use this strange process to create things more useful than just glittery tools. My current technology has so much potential for improvement with this.",
-    "I have developed a research module based on the Enchanting Table, which allows me to extract my knowledge of the world in the form of experience points (XP) and, if necessary, inject it again.",
-    "The module must be linked directly to the Researcher or via a network to function. The actual work takes place in the Researcher as normal.",
-    "Crafting:",
-    {
-        "link": "futurepack:lang/part/crafting_upgradet3.json"
-    },
-    "The module stores up to 1500 XP (about 31 levels). If this proves insufficient, I can simply connect several modules to a Researcher.",
-    "However, I should also connect more calculation modules to the researcher. Currently, 8-16 modules are expected to be adequate."
+  {
+    "type": "revision",
+    "changed_date": "2026-07-28"
+  },
+  "Согласно законам физики этого мира, я могу извлечь часть своих знаний с помощью — не знаю, как иначе назвать — волшебной палочки, и связать эти знания с объектами.",
+  "Возможно, этот процесс позволит создавать более полезные вещи, чем просто блестящие инструменты. Моя технология имеет большой потенциал для улучшения.",
+  "Я разработал модуль исследования на основе Стола зачарований, который позволяет извлекать знания в виде Очков Опыта и при необходимости снова вводить их.",
+  "Модуль должен быть связан напрямую с Исследователем или через сеть для функционирования. Основная работа выполняется в Исследователе.",
+  "Ремесло:",
+  {
+    "link": "futurepack:lang/part/crafting_upgradet3.json"
+  },
+  "Модуль хранит до 1500 Очков Опыта (примерно 31 уровень). При недостатке можно подключить несколько модулей к одному Исследователю.",
+  "Также следует подключить дополнительные вычислительные модули — предполагается, что 8–16 модулей будет достаточно."
 ]

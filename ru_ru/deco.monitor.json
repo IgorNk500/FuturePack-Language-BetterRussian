@@ -1,12 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2026-07-28"
     },
-    "I can make an myriad of monitors and control elements from some iron elements and silicon chips. Every machine contains its own interface, so these seem to be \"useful\" for other applications.",
-    "Info: The monitor is only for decorative purposes and funcitons like a painting!",
-    "Crafting:",
-    {
-        "link": "futurepack:lang/part/cr_deco.monitor.json"
-    }
+    "Простой монитор для отображения данных машин и их состояния. Может показывать температуру, загрузку и поток энергии.",
+    "Использование:",
+    "Подключите монитор к материнской плате или сети данных — он автоматически отобразит доступную телеметрию.",
+    "Инфо: для расширенных функций потребуется Research: Computer Displays."
 ]

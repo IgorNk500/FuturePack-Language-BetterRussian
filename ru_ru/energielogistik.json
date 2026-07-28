@@ -1,10 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2019-09-20"
+        "changed_date": "2026-07-28"
     },
-    "By further experiments I discovered that the neon material is able to transport energy with nearly no loss. The powering of a conductor causes the material to switch into a more energetic state.",
-    "The energy flow acts like a fluid and spreads extremely fast through the cable. The flow always prefers the nearest consumer, until it's power storage is full.",
-    "Note: New researchables available in \"logistics\"!",
-    "\u00a70Research item: Cable\u00a7r"
+    "Логистика энергии — ключ к стабильной сети: кабели, аккумуляторы и распределители позволяют направлять энергию туда, где она нужна.",
+    "Советы:",
+    "Избегайте длинных независимых линий без буферов: они вызывают просадки и потерю мощности.",
+    "Примечание: используйте кабели с низкими потерями и энергохранилища рядом с потребителями."
 ]

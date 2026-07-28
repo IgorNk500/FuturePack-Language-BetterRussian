@@ -1,7 +1,8 @@
 [
     {
         "type": "revision",
-        "changed_date": "2019-09-20"
+        "changed_date": "2026-07-28"
     },
-    "I've discovered one of the Symbols by analyzing this object. This one represents Power Connection."
+    "Энергетические связи — это схемы передачи энергии между системами. С их помощью можно объединять разные источники и согласовывать сети.",
+    "Инфо: правильная настройка каналов повышает стабильность и уменьшает потери."
 ]

@@ -2,7 +2,7 @@
 name: Translation error
 about: Use this if you encounter a translation error.
 title: "[TRANSLATION ERROR]"
-labels: ''
+labels: trranslation error
 assignees: ''
 
 ---

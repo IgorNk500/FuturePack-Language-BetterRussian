@@ -1,13 +1,14 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2020-05-11",
+        "change_date": "2026-07-28"
     },
-    "While analyzing the latest generation of my machines, I noticed that they oftentimes don't use the most efficient crafting methods. This can result in materials being wasted or lost.",
-    "Through minor adaptations of their programming, I made it so they can analyze and document their own efficiency. The data created in this way are named \"Support\" points and are stored inside the machine.",
-    "I can evaluate the data sets gathered from these \"intelligently\" working machines in my own later research or use the data to create even more intelligent machinery.",
-    "Also, when supplied with Support, I can use the Assembly Table to build considerably better components.",
-    "Info: The Support Gauge is a yellow meter, usually found on the right-hand side of a machine's GUI. Information regarding the transport and storage of said points can be found on the \"Logistics\" page.",
-    "Note: New researchables available in \"Logistics\"!",
-    "\u00a70Research item: Empty Simple Redstone Flash Drive\u00a7r"
+    "Пока разбирал поведение своих машин нового поколения, заметил — они не всегда работают оптимально. Из-за этого материалы иногда теряются. Нел��зя так с ресурсами.",
+    "Я адаптировал их прошивку так, чтобы они могли анализировать и документировать свою эффективность. Эти данные я называю очками «Поддержки», и они хранятся внутри системы.",
+    "Я смогу использовать собранные наборы данных в дальнейших исследованиях или применить их, чтобы создавать ещё умнее машины.",
+    "Также: при подаче Поддержки я могу собирать на Сборочном столе заметно лучшие компоненты.",
+    "Инфо: Индикатор Поддержки — жёлтый счётчик, обычно справа в интерфейсе машины. Информацию о транспортировке и хранении очков ищите в разделе 'Логистика'.",
+    "Примечание: Новые исследования доступны в \"Логистика\"!",
+    "\u00a70Предмет исследования: Пустой простой Redstone Flash Drive\u00a7r"
 ]

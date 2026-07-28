@@ -1,9 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2020-05-11",
+        "change_date": "2026-07-28"
     },
-    "It's very time-consuming and, simply put, tedious to gather large amounts of ores and minerals by hand. I can now automate this procedure using my computer systems and a mining robot.",
-    "Equipping a robot with my newly discovered laser technology, I'm no longer confined to using breakable pickaxes; I can carve blocks directly out of the environment wirelessly.",
-    "Note: New researchables available in \"Production\"!"
+    "Добывать руды и минералы вручную — долго и утомительно. Я автоматизировал процесс: теперь мои компьютерные системы управляют буровым роботом.",
+    "Оснастив робота моим лазером, мне больше не нужны ломающиеся кирки. Я могу дистанционно вырезать блоки из окружения.",
+    "Примечание: Новые исследования доступны в \"Производство\"!"
 ]

@@ -1,18 +1,19 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2020-05-11",
+        "change_date": "2026-07-28"
     },
-    "I have managed to create a simple workstation with my basic knowledge of chip-crafting, giving me ideal conditions to assemble these components.",
-    "Various pieces of machinery are connected to a metal frame for part assembly and testing. This unit makes it possible to perform the crucial assembly steps in a clean environment, a requirement that has proven to be imperative for a long-lasting component.",
-    "Crafting:",
+    "Мне удалось создать простую рабочую станцию для сборки чипов — отличное место для тестов и сборки компонентов.",
+    "Разные части машин монтируются на металлической раме для сборки и проверки. Это даёт чистые условия, необходимые для точной сборки.",
+    "Крафт:",
     {
         "link": "futurepack:lang/part/cr_assembly_table.json"
     },
-    "Usage:",
-    "Any item created here consists of 3 separate components, which are placed in the central 3 slots. Their order is of importance! The finished product can then be taken from the large output beneath.",
-    "Component Quality:",
-    "Although the assembly conditions may be optimal, the quality of an actual component can't be fully predicted. A random value for the Core/RAM/Chip Power is created upon assembl. The minimum value is based off of the recipe used.",
-    "The maximum value if often only slightly higher than minimum value, but can be increased noticeably by supplying energy and/or Support (upon researching them).",
-    "Note: There may be some situations/recipes in which supplied energy/Support isn't needed and may be wasted."
+    "Использование:",
+    "Любой предмет, созданный здесь, состоит из трёх компонентов, которые размещаются в трёх центральных слотах. Их порядок важен! Готовый продукт забирают из большого выходного слота.",
+    "Качество компонентов:",
+    "Даже при оптимальных условиях качество может быть случайным: при сборке генерируются значения Core/RAM/Chip Power. Минимум задаётся, максимум чуть больше, но его можно поднять энергией и/или Поддержкой (после изучения).",
+    "Максимум обычно лишь немного выше минимума, но при подаче энергии или Поддержки показатель заметно улучшается.",
+    "Примечание: в некоторых рецептах подача энергии/Поддержки может быть не нужна и будет потрачена впустую."
 ]

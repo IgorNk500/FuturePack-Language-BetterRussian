@@ -1,13 +1,14 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2020-05-11",
+        "change_date": "2026-07-28"
     },
-    "I've developed a chipset that boosts the decision-making abilities of a computer system.",
-    "Assembly:",
+    "Я разработал чипсет, который усиливает способность компьютера принимать решения.",
+    "Сборка:",
     {
         "link": "futurepack:lang/part/as_chip.ai.json"
     },
-    "One use of the AI (Artificial Intelligence) chipset is with the absorption laser (entity eater) which, when equipped, will no longer kill targets, but instead will leave them highly weakened.",
-    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
+    "Один из вариантов использования AI-чипсета — с поглощающим лазером (entity eater): когда чип установлен, он больше не убивает цели, а лишь сильно ослабляет их.",
+    "Подсказка: Смотрите \"Logic Chipset\" для общей информации о чипсетах."
 ]

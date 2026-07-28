@@ -1,8 +1,9 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2020-05-11",
+        "change_date": "2026-07-28"
     },
-    "Theoretically I can upgrade my simple flash drives whenever I wish. However, in practice, I will have to find a way to fit more (or better) storage units into the module.",
-    "Note: New researchables available in \"Logistics\"!"
+    "Теоретически я могу апгрейдить простые флешки когда захочу. На практике придётся придумать, как поместить больше или более ёмкие модули хранения внутрь устройства.",
+    "Примечание: Новые исследования доступны в \"Логистика\"!"
 ]

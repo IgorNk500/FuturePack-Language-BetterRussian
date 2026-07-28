@@ -1,9 +1,10 @@
 [
     {
         "type": "revision",
-        "changed_date": "2020-05-11"
+        "changed_date": "2020-05-11",
+        "change_date": "2026-07-28"
     },
-    "My need for raw materials continues to increase, almost exponentially. More and more land is falling victim to my mining activities; but if my calculations are correct, I do not take advantage of the full potential of an area since I can only mine down to the bedrock.",
-    "Maybe I can find natural cracks that I can exploit to extract valuable resources from below the bedrock.",
-    "Note: New researchables available in \"Production\"!"
+    "Потребность в сырье растёт почти экспоненциально. Земли всё меньше, а я всё копаю; если расчёты верны, я не использую всё доступное пространство...",
+    "Возможно, стоит поискать природные трещины, через которые можно добраться к ценным ресурсам под коренной породой.",
+    "Примечание: Новые исследования доступны в \"Производство\"!"
 ]

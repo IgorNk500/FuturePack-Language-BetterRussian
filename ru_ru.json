@@ -1494,7 +1494,15 @@
   "item.futurepack.research_blueprint.xp": "Опыт:",
 
   "item.futurepack.dungeon_tablet": "Книга о Недостижимом",
-  "research.story\/crystal_science": "Кристальная наука",
+
+  "research.story/crystal_science": "Кристальная наука",
+  "research.story/log_s0447_1": "Дневник. Часть 1",
+  "research.story/log_s0447_2": "Дневник. Часть 2",
+  "research.story/log_s0447_3": "Дневник. Часть 3",
+  "research.story/log_s0447_4": "Дневник. Часть 4",
+  "research.story/log_s0447_5": "Дневник. Часть 5",
+  "research.story/log_s0447_6": "Дневник. Часть 6",
+  "research.story/deepcore_prototype_initialisation": "Работа с прототипом Глубинного шахтёра",
 
   "block.futurepack.composite_trapdoor": "Композитный люк",
 

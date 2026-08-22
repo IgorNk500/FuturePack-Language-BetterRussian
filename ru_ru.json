@@ -972,7 +972,7 @@
   "scanner.button.3.name": "Калькулятор",
   "gui.scanner.start.name": "Сканировать",
 
-  "gui.futurepack.machine.scrench": "Это устройство может быть модифицировано с помощью гаечного ключа",
+  "gui.futurepack.machine.scrench": "Это устройство можно улучшить гаечным ключом",
   "gui.futurepack.machine.burned": "Это устройство сгорело!",
 
   "chat.escanner.athmosphere.breathable": "Здесь есть кислород.",

@@ -28,7 +28,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE."""
 import json, os
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __author__ = "IgorNk500"
 
 DEBUG = bool(os.getenv("DEBUG", False))
@@ -37,7 +37,7 @@ ENCODING =   os.getenv("ENCODING", "utf-8")
 
 ########## MENU ##########
 
-def menu(orig: str, custom: str):
+def menu(orig: str, custom: str, y: bool = False):
     """Main function"""
 
     print("""
@@ -49,7 +49,9 @@ def menu(orig: str, custom: str):
 
     print()
     print(f"Original: {orig}; Custom: {custom}")
-    input("Press Enter to continue...")
+
+    if not y:
+        input("Press Enter to continue...")
 
     print()
     print("SCANNING...")
@@ -169,6 +171,7 @@ if __name__ == "__main__":
     parser.add_argument("original", type=str, help="original language name")
     parser.add_argument("custom", type=str, help="custom language name")
 
+    parser.add_argument("-y", action="store_true", required=False, help="[OPTIONAL]: disable \"input()\"")
     parser.add_argument("-e", "--encoding", type=str, required=False,
                         help=f"[PLEASE USE]: encoding for files (default: {ENCODING})", )
     parser.add_argument("-d", "--debug", action="store_true", required=False, help="[OPTIONAL]: show debug messages")
@@ -185,4 +188,4 @@ if __name__ == "__main__":
     if args.robotic:
         print(json.dumps(robotic(args.original, args.custom)))
     else:
-        menu(args.original, args.custom)
+        menu(args.original, args.custom, args.y)

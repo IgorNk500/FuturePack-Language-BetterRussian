@@ -167,7 +167,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="checks localization files for omissions")
     parser.add_argument("original", type=str, help="original language name")
-    parser.add_argument("custom", type=str, help="custom Language name")
+    parser.add_argument("custom", type=str, help="custom language name")
 
     parser.add_argument("-e", "--encoding", type=str, required=False,
                         help=f"[PLEASE USE]: encoding for files (default: {ENCODING})", )

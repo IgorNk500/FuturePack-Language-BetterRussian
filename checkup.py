@@ -28,7 +28,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE."""
 import json, os
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 __author__ = "IgorNk500"
 
 DEBUG = bool(os.getenv("DEBUG", False))
@@ -56,9 +56,10 @@ def menu(orig: str, custom: str, y: bool = False):
     print()
     print("SCANNING...")
     _all, found = checkup(orig, custom)
-
     print()
+    
     print("COMPLETE!")
+    print()
     print("=" * 50)
     print("STATISTICS:")
 
@@ -70,8 +71,8 @@ def menu(orig: str, custom: str, y: bool = False):
 
     # Print statistics
     print("    All: {}".format(_all))
-    print("    Found: {} ({}%)".format(found, found_percent))
-    print("    Not found: {} ({}%)".format(not_found, not_found_percent))
+    print("    Found: {} (~{}%)".format(found, int(found_percent)))
+    print("    Not found: {} (~{}%)".format(not_found, int(not_found_percent)))
 
 def robotic(orig: str, custom: str) -> dict[str, dict[str, int | bool]]:
     """**Robotic mode. Please read:**

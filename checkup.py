@@ -4,7 +4,7 @@
 Use in root folder.
 
 Usage:
-    Please run `python checkup.py -h` for help
+    Run `python checkup.py -h` for help
 
 -----
 
@@ -28,12 +28,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE."""
 import json, os
-
-__version__ = "1.0"
+__version__ = "1.0.1"
 __author__ = "IgorNk500"
 
-DEBUG = False
-ENCODING = "utf-8"
+DEBUG = bool(os.getenv("DEBUG", False))
+ENCODING =   os.getenv("ENCODING", "utf-8")
 
 
 ########## MENU ##########
@@ -72,7 +71,7 @@ def menu(orig: str, custom: str):
     print("    Found: {} ({}%)".format(found, found_percent))
     print("    Not found: {} ({}%)".format(not_found, not_found_percent))
 
-def robotic(orig: str, custom: str):
+def robotic(orig: str, custom: str) -> dict[str, dict[str, int | bool]]:
     """**Robotic mode. Please read:**
     Returns ALL data in format {"main": dict[str, int], "additional": dict[str, bool]},
     where "main" is the {"lang_key": position} and "additional" is the {"filepath": correct}."""
@@ -83,6 +82,8 @@ def robotic(orig: str, custom: str):
 ########## CHECKUPS ##########
 
 def checkup(orig: str, custom: str):
+    """:arg orig: Original language id *(file + folder)*
+    :arg custom: Custom language id *(file name (wo .json) or/and folder)*"""
     res, res_main = checkup_all(orig, custom)
     print("Scanning complete")
     print()
@@ -104,8 +105,8 @@ def checkup(orig: str, custom: str):
 
 def checkup_all(orig: str, custom: str) -> tuple[dict[str, bool], dict[str, int]]:
     """Checkup all JSON localization files
-    :arg orig: Original language path
-    :arg custom: Custom language path"""
+    :arg orig: Original language id *(file + folder)*
+    :arg custom: Custom language id *(file + folder)*"""
 
     # Checkup main file
     if DEBUG: print("Scanning main lang file...")
@@ -164,15 +165,15 @@ def _selector(variants: list[str], inp_text: str = "Select a variant") -> str:
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Checks localization files for omissions")
-    parser.add_argument("original", type=str, help="Original language name")
-    parser.add_argument("custom", type=str, help="Custom Language name")
+    parser = argparse.ArgumentParser(description="checks localization files for omissions")
+    parser.add_argument("original", type=str, help="original language name")
+    parser.add_argument("custom", type=str, help="custom Language name")
 
     parser.add_argument("-e", "--encoding", type=str, required=False,
-                        help=f"[PLEASE USE]: Encoding for files (Default: {ENCODING})", )
-    parser.add_argument("-d", "--debug", action="store_true", required=False, help="[OPTIONAL]: Debug mode")
+                        help=f"[PLEASE USE]: encoding for files (default: {ENCODING})", )
+    parser.add_argument("-d", "--debug", action="store_true", required=False, help="[OPTIONAL]: show debug messages")
     parser.add_argument("-r", "--robotic", required=False, action="store_true",
-                        help="[OPTIONAL]: Return in JSON + Silent")
+                        help="[OPTIONAL]: return in JSON + silent")
     args = parser.parse_args()
 
     if args.debug:
@@ -182,6 +183,6 @@ if __name__ == "__main__":
         ENCODING = args.encoding
 
     if args.robotic:
-        print(robotic(args.original, args.custom))
+        print(json.dumps(robotic(args.original, args.custom)))
     else:
         menu(args.original, args.custom)

@@ -993,7 +993,7 @@
 
   "chat.research.add": "Ваши исследования §o(%s)§r завершены.",
   "chat.plasma_core.toobig": "Плазменный резервуар слишком большой! Обнаружено блоков: %s, допустимый максимум - %s.",
-  "chat.plasma_core.wrongblock": "Неправильный блок для Плазма ядра!", // ??? (Я не смог найти оригинальную версию этого элемента локализации!)
+  "chat.plasma_core.wrongblock": "Неправильный блок для Плазма ядра!",
 
   "aspect.geologie.name": "Геология",
   "aspect.chemie.name": "Химия",
@@ -1469,9 +1469,7 @@
   "gui.futurepack.researcher.title": "Исследователь",
 
 
-  ///////////////////////////////////////////////////////////////////////////
-
-
+  
   "block.futurepack.door_marker": "Маркер водяной двери",
   "block.futurepack.logistic_chest": "Логистический сундук",
 
@@ -1648,12 +1646,10 @@
   "block.futurepack.spaceship_mover":	"Маневровый двигатель",
 
 
-  ///////////////////////////////////////////////////////////////////////////
-
-
+  
   "futurepack.item.broken": "Сломано!",
 
-  // Deepslates for 1.18.2
+  
   "block.futurepack.ore_bauxite_deepslate": "Глубинная бокситовая руда",
   "block.futurepack.ore_tin_deepslate": "Глубинная оловянная руда",
   "block.futurepack.ore_zinc_deepslate": "Глубинная цинковая руда",

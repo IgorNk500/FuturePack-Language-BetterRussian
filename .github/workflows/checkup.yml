@@ -33,5 +33,5 @@ jobs:
         uses: actions/setup-python@v3
 
       - name: Run checkup
-        run: python checkup.py -e ${{ github.event.inputs.encoding }} ${{ github.event.inputs.original }} ${{ github.event.inputs.custom }}
-        #                      -e {encoding}                          {original}                          {custom}
+        run: python checkup.py -y -e ${{ github.event.inputs.encoding }} ${{ github.event.inputs.original }} ${{ github.event.inputs.custom }}
+        #                         -e {encoding}                          {original}                          {custom}

@@ -1,0 +1,37 @@
+# Check localization files for omissions with checkup.py script
+
+name: Checkup
+
+on:
+  workflow_dispatch:
+    inputs:
+      original:
+        description: 'Original localization name'
+        required: true
+        default: 'de_de'
+        type: string
+
+      custom:
+        description: 'Custom (target) localization name'
+        required: true
+        type: string
+
+      encoding:
+        description: 'Localization files encoding'
+        required: true
+        default: 'utf-8'
+        type: string
+
+jobs:
+  checkup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+
+      - name: Run checkup
+        run: python checkup.py -e ${{ github.event.inputs.encoding }} ${{ github.event.inputs.original }} ${{ github.event.inputs.custom }}
+        #                      -e {encoding}                          {original}                          {custom}

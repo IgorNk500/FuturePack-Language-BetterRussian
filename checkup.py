@@ -28,10 +28,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE."""
 import json, os
-__version__ = "1.0.3"
-__author__ = "IgorNk500"
+__author__  = "IgorNk500"
+__version__ = "1.0.4"
 
-DEBUG = bool(os.getenv("DEBUG", False))
+DEBUG    = bool(os.getenv("DEBUG", False))
 ENCODING =   os.getenv("ENCODING", "utf-8")
 
 
@@ -40,12 +40,12 @@ ENCODING =   os.getenv("ENCODING", "utf-8")
 def menu(orig: str, custom: str, y: bool = False):
     """Main function"""
 
-    print("""
+    print(f"""
     ==========================
-    Localization checkup v{}
-          by IgorNk500
+    Localization checkup v{__version__}
+          by {__author__}
     ==========================
-    """.format(__version__))
+    """)
 
     print()
     print(f"Original: {orig}; Custom: {custom}")
